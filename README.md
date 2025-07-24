@@ -1,4 +1,3 @@
-```markdown
 # Learning Pandas 🐼
 
 A comprehensive collection of pandas examples and techniques for data manipulation and analysis in Python.
@@ -229,4 +228,3 @@ pip install pandas numpy pyjanitor skimpy
 ---
 
 *Happy pandas learning! 🐼📊*
-```
