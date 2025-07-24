@@ -4,15 +4,15 @@ A comprehensive collection of pandas examples and techniques for data manipulati
 
 ## 📚 Table of Contents
 
-- [Basic DataFrame Operations]
-- [Loading Data from Files]
-- [Accessing and Selecting Data]
-- [Filtering Data]
-- [Adding and Removing Columns]
-- [Merging and Concatenating Data]
-- [Handling Null Values]
-- [Data Aggregation]
-- [Advanced Functionality]
+- Basic DataFrame Operations
+- Loading Data from Files
+- Accessing and Selecting Data
+- Filtering Data
+- Adding and Removing Columns
+- Merging and Concatenating Data
+- Handling Null Values
+- Data Aggregation
+- Advanced Functionality
 
 ## 🚀 Basic DataFrame Operations
 
